@@ -2,7 +2,7 @@
 
 This is an example repository!
 
-```bash
+```sql
 # This is a code snippet
-sudo apt install something
+SELECT * FROM SOMETHING;
 ```
